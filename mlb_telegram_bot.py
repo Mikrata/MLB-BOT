@@ -17,7 +17,7 @@ from datetime import datetime, timezone
 
 # ─── CONFIGURACIÓN ────────────────────────────────────────────────────────────
 TELEGRAM_TOKEN = "8564424569:AAGyamNnQEFWktMAp9aRXRhO3FA09wWXHtQ"
-CHAT_ID        = "8185770049"
+CHAT_ID        = "8725539490"
 
 TARGET_INNINGS  = {4, 5, 6}    # Innings donde se activa el seguimiento
 MIN_RUN_LEAD    = 2             # Alerta con 3+ carreras de ventaja (> 2)
