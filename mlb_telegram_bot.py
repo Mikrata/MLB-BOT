@@ -16,7 +16,7 @@ import logging
 from datetime import datetime, timezone
 
 # ─── CONFIGURACIÓN ────────────────────────────────────────────────────────────
-TELEGRAM_TOKEN = "8210715470:AAEMKEXZdYj-I1Na1dP5KxxqDtDnUtqt48o"
+TELEGRAM_TOKEN = "8564424569:AAGyamNnQEFWktMAp9aRXRhO3FA09wWXHtQ"
 CHAT_ID        = "8185770049"
 
 TARGET_INNINGS  = {4, 5, 6}    # Innings donde se activa el seguimiento
